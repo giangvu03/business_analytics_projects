@@ -1,10 +1,9 @@
 ## Executive Summary
-This repository presents two data-driven projects analyzing Airbnb’s marketplace dynamics using machine learning.
+Built machine learning models to analyze Airbnb pricing and host performance using real-world data.
 
-- Developed regression and classification models to evaluate pricing and host performance  
-- Identified key business drivers, including location, property type, and host responsiveness  
-- Applied statistical modeling and ensemble learning to generate actionable insights  
-- Results provide strategic implications for pricing optimization and host performance improvement  
+- Identified key drivers of price: location, property type, and host quality  
+- Developed a classification model achieving 82% accuracy with a high recall (91%)  
+- Generated actionable insights to support pricing optimization and host performance strategies  
 
 ---
 ## Project 1: Airbnb Price Prediction
