@@ -4,7 +4,6 @@
 ##### Based in Hanoi, Vietnam / Seoul, South Korea
 ##### Graduate in Business Administration (BBA) at Korea University, Specialized in Business Analytics | Financial Analysis & Investment
 
----
 
 ## About Me
 
@@ -12,7 +11,6 @@ I am a Business Analytics student with strong interest in data-driven decision m
 
 My experience includes building predictive models, conducting market analysis, and applying machine learning techniques to real-world business problems.
 
----
 
 ## Projects
 
@@ -24,7 +22,6 @@ My experience includes building predictive models, conducting market analysis, a
 
 #### Insight: Model highlights pricing drivers rather than exact predictions due to real-world data complexity  
 
----
 
 ### 2. Airbnb Superhost Classification
 
@@ -34,7 +31,6 @@ My experience includes building predictive models, conducting market analysis, a
 
 #### Insight: Model prioritizes identifying high-potential hosts, even with some false positives  
 
----
 
 ## Skills
 
