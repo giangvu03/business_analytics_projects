@@ -36,7 +36,7 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 - Improves revenue optimization decisions
  
 ### File
-- [airbnb_price_prediction.ipynb](./airbnb_price_prediction_model.ipynb): Full analysis and model development
+- [airbnb_price_prediction.ipynb](./projects/airbnb_price_prediction_model.ipynb): Full analysis and model development
 
 ## Project 2: Airbnb Superhost Classification
 ### Business Problem
