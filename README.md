@@ -48,4 +48,4 @@ To classify whether a host is likely to become a “Superhost” using machine l
 ---
 
 ## About Me
-I am a fresh graduate from Korea University, majoring in Business Administration with a strong interest in data-driven decision making, consulting, and strategic analysis.
+I am a fresh graduate from Korea University, majoring in Business Administration with a strong interest in data-driven decision making, consulting and strategic analysis.
