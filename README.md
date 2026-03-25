@@ -3,6 +3,14 @@
 This repository showcases my data-driven projects focused on applying statistical modeling and machine learning to real-world business problems.
 
 ---
+## Executive Summary
+
+- Built machine learning models to analyze Airbnb pricing and host performance  
+- Identified key drivers: location, property type, and host responsiveness  
+- Achieved strong predictive performance using regression and ensemble models  
+- Insights can support pricing optimization and host performance improvement strategies
+
+---
 ## Project 1: Airbnb Price Prediction
 ### Objective
 To develop a predictive model that estimates Airbnb listing prices based on property characteristics, location, and host features.
