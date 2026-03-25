@@ -5,7 +5,6 @@ This repository showcases my data-driven projects focused on applying statistica
 ---
 
 ## Project 1: Airbnb Price Prediction
-
 ### Objective
 To develop a predictive model that estimates Airbnb listing prices based on property characteristics, location, and host features.
 
@@ -22,7 +21,6 @@ To develop a predictive model that estimates Airbnb listing prices based on prop
 
 
 ## Project 2: Airbnb Superhost Classification
-
 ### Objective
 To classify whether a host is likely to become a “Superhost” using machine learning techniques.
 
