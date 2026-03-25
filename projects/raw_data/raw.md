@@ -1,5 +1,6 @@
 ## Data Source
-The dataset was obtained from publicly available Airbnb listing data (New York City), containing information on property characteristics, host profiles, pricing, and customer reviews.
+
+The dataset was obtained from publicly available Airbnb listing data (New York City), sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/). It contains information on property characteristics, host profiles, pricing, and customer reviews.
 
 ## Data Limitations
 
