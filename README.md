@@ -1,26 +1,53 @@
 # Business Analytics Projects
 
-This repository showcases my projects applying data analysis and machine learning to solve real-world business problems.
+This repository showcases my data-driven projects focused on applying statistical modeling and machine learning to real-world business problems.
 
 ---
 
-## 📊 Airbnb Price Prediction
-A regression-based model to estimate Airbnb listing prices using property, location, and host features.
+## Project 1: Airbnb Price Prediction
 
-👉 Key takeaway:
-Location and property characteristics are the strongest drivers of pricing.
+### Objective
+To develop a predictive model that estimates Airbnb listing prices based on property characteristics, location, and host features.
+
+### Methodology
+- Data preprocessing and feature engineering
+- Exploratory Data Analysis (EDA)
+- Regression modeling using Python
+- Model evaluation and performance comparison
+
+### Key Insights
+- Location and property type significantly impact pricing
+- Certain host features correlate with higher listing prices
+- The model provides practical guidance for pricing optimization
+
+
+## Project 2: Airbnb Superhost Classification
+
+### Objective
+To classify whether a host is likely to become a “Superhost” using machine learning techniques.
+
+### Methodology
+- Data cleaning and handling class imbalance
+- Feature selection and transformation
+- Models applied:
+  - Decision Tree
+  - Random Forest
+- Model evaluation using cross-validation
+
+### Key Insights
+- Response rate, review scores, and consistency are key drivers
+- Ensemble models (Random Forest) improve prediction accuracy
+- Results can support platform strategies and host improvement
 
 ---
 
-## 🤖 Airbnb Superhost Classification
-A classification model to predict whether a host becomes a Superhost.
-
-👉 Key takeaway:
-Response rate, review score, and consistency are critical factors.
-
----
-
-## 🛠️ Tools Used
+## Tools & Technologies
 - Python (pandas, scikit-learn)
-- Regression & Classification Models
-- Data Analysis & Visualization
+- Regression Analysis
+- Classification Models
+- Data Visualization
+
+---
+
+## About Me
+I am a fresh graduate from Korea University, majoring in Business Administration with a strong interest in data-driven decision making, consulting, and strategic analysis.
