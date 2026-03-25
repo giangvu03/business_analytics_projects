@@ -3,7 +3,6 @@
 This repository showcases my data-driven projects focused on applying statistical modeling and machine learning to real-world business problems.
 
 ---
-
 ## Project 1: Airbnb Price Prediction
 ### Objective
 To develop a predictive model that estimates Airbnb listing prices based on property characteristics, location, and host features.
@@ -19,7 +18,10 @@ To develop a predictive model that estimates Airbnb listing prices based on prop
 - Certain host features correlate with higher listing prices
 - The model provides practical guidance for pricing optimization
 
+### File
+- `airbnb_price_prediction.ipynb`: Full analysis and model development
 
+---
 ## Project 2: Airbnb Superhost Classification
 ### Objective
 To classify whether a host is likely to become a “Superhost” using machine learning techniques.
@@ -37,8 +39,10 @@ To classify whether a host is likely to become a “Superhost” using machine l
 - Ensemble models (Random Forest) improve prediction accuracy
 - Results can support platform strategies and host improvement
 
----
+### File
+- `airbnb_superhost_classification.ipynb`: Full model and analysis
 
+---
 ## Tools & Technologies
 - Python (pandas, scikit-learn)
 - Regression Analysis
@@ -46,6 +50,5 @@ To classify whether a host is likely to become a “Superhost” using machine l
 - Data Visualization
 
 ---
-
 ## About Me
 I am a fresh graduate from Korea University, majoring in Business Administration with a strong interest in data-driven decision making, consulting and strategic analysis.
