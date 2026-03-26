@@ -35,7 +35,7 @@ Several raw variables were transformed into meaningful numerical features:
 
 ### 4. Handling Missing Values
 Unlike regression tasks, missing values here contain **behavioral signals**.
---> Dropping rows would remove **30–40% of data** :contentReference[oaicite:0]{index=0}  
+--> Dropping rows would remove **30–40% of data**   
 --> Therefore, targeted imputation was applied:
 - **Skewed numeric variables** (e.g., bathrooms, bedrooms): Median imputation  
 - **Review scores**: Median imputation  
