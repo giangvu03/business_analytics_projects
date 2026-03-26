@@ -28,7 +28,7 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 
 ### Model Performance 
 - R²: 44.1%
-- While the model explains a moderate proportion of price variation, this is expected given the complexity and noise in real-world Airbnb data. Many influencing factors, such as exact location nuances, listing visuals, and temporal demand patterns, are not fully captured in the dataset. Despite this, the model successfully identifies key pricing drivers and provides meaningful directional insights. 
+- While the model explains a moderate proportion of price variation, this is expected given the complexity and noise in real-world Airbnb data. Many influential factors, such as exact-location nuances, listing visuals, and temporal demand patterns, are not fully captured in the dataset. Despite this, the model successfully identifies key pricing drivers and provides meaningful directional insights. 
 
 ### Business Impact
 - Enables data-driven pricing strategies for hosts  
@@ -36,7 +36,8 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 - Improves revenue optimization decisions
  
 ### File
-- [airbnb_price_prediction.ipynb](./airbnb_project/price_prediction/airbnb_price_prediction_model.ipynb): Full analysis and model development
+- [Data Cleaning & Preprocessing](./airbnb_project/cleaned_data/cleaned_price_prediction.ipynb)
+- [Modeling Notebook](./airbnb_project/price_prediction/airbnb_price_prediction_model.ipynb)
 
 ## Project 2: Airbnb Superhost Classification
 ### Business Problem
@@ -65,8 +66,9 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 - Strengthens platform trust and customer experience  
 
 ### File
-- [airbnb_superhost_classification.ipynb](./airbnb_project/superhost_classification/projects/airbnb_superhost_classification_model.ipynb): Full analysis and model development
-
+- [Data Preprocessing & Feature Engineering](./airbnb_project/cleaned_data/cleaned_superhost_classification.ipynb)
+- [Modeling Notebook](./airbnb_project/superhost_classification/projects/airbnb_superhost_classification_model.ipynb)
+  
 ## Tools & Technologies
 - Python (pandas, scikit-learn)
 - Regression Analysis
