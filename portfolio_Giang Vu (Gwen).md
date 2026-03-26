@@ -36,7 +36,7 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 - Improves revenue optimization decisions
  
 ### File
-- [airbnb_price_prediction.ipynb](./airbnb_projects/price_prediction/airbnb_price_prediction_model.ipynb): Full analysis and model development
+- [airbnb_price_prediction.ipynb](./airbnb_project/price_prediction/airbnb_price_prediction_model.ipynb): Full analysis and model development
 
 ## Project 2: Airbnb Superhost Classification
 ### Business Problem
@@ -56,7 +56,7 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 - Ensemble methods improve predictive performance  
 
 ### Model Performance
-- The model achieves a high recall (91.69%), indicating a strong ability to correctly identify Superhosts. However, precision is relatively lower (55.16%), suggesting the model tends to classify some non-Superhosts as Superhosts.
+- The model achieves a high recall (91.69%), indicating a strong ability to identify Superhosts correctly. However, precision is relatively lower (55.16%), suggesting the model tends to classify some non-Superhosts as Superhosts.
 - This trade-off is acceptable in scenarios where identifying potential high-performing hosts is prioritized over minimizing false positives.
 
 ### Business Impact
@@ -65,7 +65,7 @@ Built machine learning models to analyze Airbnb pricing and host performance usi
 - Strengthens platform trust and customer experience  
 
 ### File
-- [airbnb_superhost_classification.ipynb](./airbnb_projects/superhost_classification/projects/airbnb_superhost_classification_model.ipynb): Full analysis and model development
+- [airbnb_superhost_classification.ipynb](./airbnb_project/superhost_classification/projects/airbnb_superhost_classification_model.ipynb): Full analysis and model development
 
 ## Tools & Technologies
 - Python (pandas, scikit-learn)
