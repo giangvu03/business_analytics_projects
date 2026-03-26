@@ -6,4 +6,4 @@
 - Converted categorical variables into numerical formats  
 - Standardized data types and formats  
 
-**Notebook:** [View Data Cleaning Process](./airbnb_project/cleaned_data/cleaned_price_prediction.ipynb)
+**Notebook:** [View Data Cleaning Process](./cleaned_price_prediction.ipynb)
