@@ -7,7 +7,7 @@
 - Standardized data types and formats
 
 ### Feature Correlation Analysis
-![Correlation Heatmap](./airbnb_project/cleaned_data/price_correlation_heatmap.png)
+![Correlation Heatmap](./price_correlation_heatmap.png)
 - Several features show high correlation (e.g., availability metrics and review-related variables)  
 - Strong multicollinearity was observed among variables such as:
   - availability_30, availability_60, availability_90  
